@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/f1ec16b8-d72e-4fda-90fc-3a0ab195fa37
 ## How to Play 🚀
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone git@github.com:Yash5103/Pong-game.git
 
    
 2. Navigate to the project directory:
